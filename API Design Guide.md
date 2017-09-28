@@ -1,3 +1,9 @@
+# NOTE: This document is superseded by: https://w3ctag.github.io/design-principles/
+
+----
+----
+----
+
 API Design Guide
 ================
 Abstract
