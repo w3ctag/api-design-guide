@@ -1,6 +1,6 @@
 # Obsolete
 
-**This repo is obsolete, it has been superceded by the [W3C TAG Design principles](https://github.com/w3ctag/design-principles) document.**
+**This repo is obsolete.  It has been superceded by the [W3C TAG Design principles](https://github.com/w3ctag/design-principles) document.**
 
 API Design Guide
 ================
